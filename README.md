@@ -1,5 +1,5 @@
 # Asterisk
-A continuació es troben els principals codis que s'han modificat/creat pel Projecte TFGS de creació d'un call center amb Asterisk:
+A continuació es troben els principals codis que s'han modificat/creat per el Projecte de TFGS de creació d'un call center amb Asterisk:
 - mail.service (mail.sh)
 Asterisk:
 - extensions.conf
