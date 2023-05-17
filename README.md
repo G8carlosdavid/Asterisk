@@ -6,6 +6,7 @@ Asterisk:
 - sip.conf
 Automatització:
 - new-user.sh
+
 *Fet per Carlos S. & David I.*
 
 
